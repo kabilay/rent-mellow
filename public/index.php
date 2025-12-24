@@ -2213,7 +2213,7 @@ header('Content-Type: text/html; charset=UTF-8');
 
         <!-- Content - Properly Centered -->
         <div class="splash-content" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; z-index: 10;">
-            <img src="mellow-logo.png" alt="mellow" style="width: 140px; height: auto; animation: float 3s ease-in-out infinite; filter: drop-shadow(0 20px 50px rgba(139,169,165,0.25));">
+            <img src="assets/images/mellow-logo.png" alt="mellow" style="width: 140px; height: auto; animation: float 3s ease-in-out infinite; filter: drop-shadow(0 20px 50px rgba(139,169,165,0.25));">
             <p style="font-size: 14px; color: var(--navy); font-weight: 600; letter-spacing: 5px; text-transform: uppercase; opacity: 0.6; margin-top: 28px;">Rent · Rest · Return</p>
         </div>
 
@@ -2229,7 +2229,7 @@ header('Content-Type: text/html; charset=UTF-8');
     <nav id="navbar">
         <div class="nav-container">
             <a href="#" class="nav-logo">
-                <img src="mellow-logo.png" alt="mellow" class="mellow-logo" style="width: 42px; height: auto;">
+                <img src="assets/images/mellow-logo.png" alt="mellow" class="mellow-logo" style="width: 42px; height: auto;">
                 <span>mellow</span>
             </a>
             <ul class="nav-links">
@@ -2280,7 +2280,7 @@ header('Content-Type: text/html; charset=UTF-8');
             <div class="hero-visual">
                 <div class="hero-logo-wrapper">
                     <div class="hero-logo-glow"></div>
-                    <img src="mellow-logo.png" alt="mellow - rent.rest.return.repeat" class="hero-logo-large" style="max-width: 380px; width: 100%;">
+                    <img src="assets/images/mellow-logo.png" alt="mellow - rent.rest.return.repeat" class="hero-logo-large" style="max-width: 380px; width: 100%;">
                 </div>
             </div>
         </div>
@@ -2542,7 +2542,7 @@ header('Content-Type: text/html; charset=UTF-8');
                                 <!-- Content -->
                                 <div style="flex: 1; padding: 24px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
                                     <div style="width: 100px; height: 100px; background: white; border-radius: 28px; display: flex; align-items: center; justify-content: center; box-shadow: 0 12px 40px rgba(0,0,0,0.12); margin-bottom: 24px;">
-                                        <img src="mellow-logo.png" alt="mellow" style="width: 65px; height: auto;">
+                                        <img src="assets/images/mellow-logo.png" alt="mellow" style="width: 65px; height: auto;">
                                     </div>
                                     <h1 style="font-size: 32px; color: #1E2D3D; font-weight: 800; margin-bottom: 8px;">mellow</h1>
                                     <p style="font-size: 12px; color: #8BA9A5; font-weight: 700; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 16px;">rent · rest · return</p>
@@ -3232,7 +3232,7 @@ header('Content-Type: text/html; charset=UTF-8');
             <div class="footer-top">
                 <div class="footer-brand">
                     <a href="#" class="nav-logo" style="margin-bottom: 10px;">
-                        <img src="mellow-logo.png" alt="mellow" style="width: 50px; height: auto;">
+                        <img src="assets/images/mellow-logo.png" alt="mellow" style="width: 50px; height: auto;">
                         <span>mellow</span>
                     </a>
                     <p class="footer-tagline">RENT.REST.RETURN.REPEAT</p>
